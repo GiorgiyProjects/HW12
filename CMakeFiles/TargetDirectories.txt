@@ -1,0 +1,4 @@
+/home/runner/work/HW12/HW12/CMakeFiles/rebuild_cache.dir
+/home/runner/work/HW12/HW12/CMakeFiles/edit_cache.dir
+/home/runner/work/HW12/HW12/CMakeFiles/test.dir
+/home/runner/work/HW12/HW12/CMakeFiles/fashio_mnist.dir

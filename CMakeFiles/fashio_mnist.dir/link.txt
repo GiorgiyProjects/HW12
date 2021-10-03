@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fashio_mnist.dir/main.cpp.o -o fashio_mnist  -lpthread /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0 
